@@ -1,0 +1,30 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body { 
+    background-color: aliceblue;
+    margin-top: 120px;
+}
+
+#title {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.recipe {
+    font-size: 20px;
+    list-style: none;
+    text-decoration:none;
+    color: black;
+    font-weight: bold;
+    margin-left: -43px;
+    }
+
+li {
+    text-align: center;
+    list-style: none;
+    padding-top: 25px;
+    
+    
+}
